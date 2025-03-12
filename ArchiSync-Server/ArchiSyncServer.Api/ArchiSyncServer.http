@@ -1,0 +1,6 @@
+@ArchiSyncServer_HostAddress = http://localhost:5210
+
+GET {{ArchiSyncServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+﻿@ArchiSyncServer.Api_HostAddress = https://localhost:7034
+
+GET {{ArchiSyncServer.Api_HostAddress}}/api/comment
+
+###
+
